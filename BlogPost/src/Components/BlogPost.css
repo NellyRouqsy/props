@@ -1,0 +1,48 @@
+.Post{
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+    justify-content: center;
+}
+.style1{
+    background-color: rgb(218, 217, 217);
+    p{
+        font-weight: bold;
+    }
+}
+.style2{
+    background-color: rgb(218, 217, 217);
+    p{
+        font-weight: bold;
+    }
+}
+.style3{
+    background-color: rgb(218, 217, 217);
+    p{
+        font-weight: bold;
+    }
+    h2{
+        margin-top: 70px;
+    }
+}
+.style4{
+    background-color: rgb(218, 217, 217);
+    height:400px;
+    p{
+        font-weight: bold;
+    }
+}
+.style5{
+    background-color: rgb(218, 217, 217);
+    height: 400px;
+    p{
+        font-weight: bold;
+    }
+}
+.style6{
+    background-color: rgb(218, 217, 217);
+    height: 400px;
+    p{
+        font-weight: bold;
+    }
+}
