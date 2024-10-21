@@ -1,0 +1,17 @@
+.Cards{
+    /* padding: 80px; */
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px;
+    justify-content: center;
+    padding: 50px;
+    align-items: center;
+    img{
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+    }
+    
+}
+
