@@ -1,10 +1,9 @@
 .ProductList{
-    /* border: 1px solid; */
-    /* margin: 0px auto; */
-    /* background-color: red; */
+    border: 1px solid;
+    cursor: pointer;
 }
 .style1{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -24,7 +23,7 @@
 
 }
 .style2{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -44,7 +43,7 @@
 
 }
 .style3{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -65,7 +64,7 @@
 
 }
 .style4{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -83,7 +82,7 @@
 
 }
 .style5{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -102,7 +101,7 @@
 
 }
 .style6{
-    box-shadow: 1px 1px 1px 1px gray;
+    box-shadow: 1px 1px 5px 1px gray;
     align-items: center;
     text-align: center;
     justify-content: center;
